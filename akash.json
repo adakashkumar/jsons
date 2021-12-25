@@ -1,0 +1,29 @@
+{
+    "name": "Akash",
+    "nickName": "Ak",
+    "pin": 123456,
+    "data": [
+        {
+            "url":"https://drive.google.com/thumbnail?id=1vglF535rHQPMDpQ6ezYBQa5SlqwxTn-9",
+            "type": "Image"
+        },
+        {
+            "url":"https://drive.google.com/thumbnail?id=1KX6tJTA0cuPdXKPmwejJvQLjh_UaUPLo",
+            "type": "Image"
+        },
+        {
+            "url":"https://drive.google.com/thumbnail?id=1b1g9IWfCjq9mafL0uDZ7n6bjVwTuo5eV",
+            "type": "Image"
+        },
+        {
+          "type": "Video"
+        },
+        {
+          "type": "Message",
+          "title": "Hello",
+          "message": "How r U? How r U?",
+          "bg": "blue",
+          "fontColor": "#fff"
+        }
+    ]
+}
