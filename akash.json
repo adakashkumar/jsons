@@ -11,7 +11,8 @@
         },
         {
             "url":"https://drive.google.com/thumbnail?id=1KX6tJTA0cuPdXKPmwejJvQLjh_UaUPLo",
-            "type": "Image"
+            "type": "Image",
+            "sensitiveContent": true,
         },
         {
             "url": "https://drive.google.com/thumbnail?id=1SJL2NC1d0Z5Boh_aFhrLXkt-YMKpfjUh",
