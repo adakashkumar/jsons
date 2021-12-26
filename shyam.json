@@ -36,6 +36,13 @@
             "url":"https://drive.google.com/thumbnail?id=1rL6p32F3JksQt5szMtZg5sruT_spTEJk",
             "type": "Image",
             "caption": "Started Riding 🚲"
-        }
+        },
+        {
+            "type": "Message",
+            "title": "",
+            "message": "Marakama comments ah message pannidu 😁",
+            "bg": "#105dc2",
+            "fontColor": "#fff"
+        },
     ]
 }
