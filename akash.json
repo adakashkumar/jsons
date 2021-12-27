@@ -6,16 +6,16 @@
     "time": "23:59:59",
     "data": [
         {
-            "url":"https://drive.google.com/thumbnail?id=1vglF535rHQPMDpQ6ezYBQa5SlqwxTn-9",
+            "url":"https://drive.google.com/uc?id=1vglF535rHQPMDpQ6ezYBQa5SlqwxTn-9",
             "type": "Image"
         },
         {
-            "url":"https://drive.google.com/thumbnail?id=1KX6tJTA0cuPdXKPmwejJvQLjh_UaUPLo",
+            "url":"https://drive.google.com/uc?id=1KX6tJTA0cuPdXKPmwejJvQLjh_UaUPLo",
             "type": "Image",
             "sensitiveContent": "true"
         },
         {
-            "url": "https://drive.google.com/thumbnail?id=1SJL2NC1d0Z5Boh_aFhrLXkt-YMKpfjUh",
+            "url": "https://drive.google.com/uc?id=1SJL2NC1d0Z5Boh_aFhrLXkt-YMKpfjUh",
             "type": "Image",
             "caption": "Hello 😁",
             "onImage": "Hi 😂"
